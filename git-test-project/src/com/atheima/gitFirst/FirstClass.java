@@ -12,4 +12,9 @@ public class FirstClass {
         System.out.println("hello , My Git Project");
     }
 
+
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
